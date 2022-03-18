@@ -1,5 +1,4 @@
-import logo from './world_map.png';
-import './App.css';
+import React from 'react';
 
 function App() {
   return (
